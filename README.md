@@ -10,8 +10,6 @@ The project focuses on making safety controls more accessible, supporting truste
 
 The prototype was designed using a user-centered approach informed by survey responses, semi-structured interviews, and thematic analysis. The goal is to explore a more proactive, accessible, and privacy-aware safety experience for women using ride-sharing services.
 
-> **Project Status:** Research and high-fidelity prototype design. This repository does not contain a functional mobile application.
-
 ## 🎯 Problem Statement
 
 Women using ride-sharing and other transportation services may experience safety concerns before, during, and after a journey.
